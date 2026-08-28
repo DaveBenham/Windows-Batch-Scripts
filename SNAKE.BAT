@@ -782,7 +782,7 @@ echo   D - Death....... = !death!
 echo(
 echo   V - VT100 mode.. = !vt%vt%!
 echo(
-echo   {Enter} - Rturn to Main Menu
+echo   {Enter} - Return to Main Menu
 echo(
 call :ask ">" B E H S F D V {Enter}
 if !key! equ {Enter} goto :saveUserPrefs
