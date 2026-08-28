@@ -634,7 +634,7 @@ if defined toggleVT100 call :graphicOptions
 cls
 call :resize
 set "loadAvailable="
-echo SNAKE.BAT v4.0 by Dave Benham
+echo SNAKE.BAT v4.1 by Dave Benham
 echo(
 echo Main Menu:
 echo(
